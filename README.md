@@ -1,250 +1,503 @@
-# 👨‍💻 Kisyufka | Python Developer
+# 🚀 Kisyufka | Python Developer & Creator
 
-> "Код — это поэзия, которая работает" / "Code is poetry that works"
-
----
-
-## 🌐 Quick Links / Быстрые ссылки
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kisyufka)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kisyufka)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[English](#english) | [Русский](#русский)
 
 ---
 
-## 🚀 About Me / Обо мне
+## English
 
-<div align="center">
-  
-| 🇷🇺 Русская версия | 🇺🇸 English Version |
-|-------------------|---------------------|
+### 👨‍💻 Python Developer | Telegram/Discord Bot Specialist | Backend Enthusiast
 
-</div>
-
-### 🇷🇺 Русская версия
-
-Привет! Я **Kisyufka** — Python-разработчик, специализирующийся на создании практичных и эффективных решений для автоматизации и повседневных задач.
-
-**💻 Что я разрабатываю:**
-- 🤖 **Telegram боты** — от простых утилит до многофункциональных систем с различными интеграциями
-- 🎮 **Discord боты** — с модерацией, игровыми механиками и автоматизацией сообществ
-- 🌐 **Веб-приложения и сайты** — преимущественно бэкенд на FastAPI/Flask
-- ⚙️ **Скрипты автоматизации** — для оптимизации рутинных задач и обработки данных
-- 🔧 **API и микросервисы** — для различных интеграций и сервисов
-
-**🛠 Мой технический стек:**
-- **Языки:** Python 3.8+
-- **Фреймворки:** FastAPI, Flask, aiogram, pyrogram, discord.py
-- **Базы данных:** PostgreSQL, SQLite, Redis
-- **Инструменты:** Git, Docker, REST API, HTML/CSS/JS (базово)
-- **Библиотеки:** asyncio, SQLAlchemy, pytest, BeautifulSoup, Pandas
-
-**💼 Условия сотрудничества:**
-- ✅ **Бесплатно/нематериально**: Открыт к интересным **некоммерческим проектам**, особенно:
-  - Социально значимым инициативам
-  - Образовательным проектам
-  - Творческим и экспериментальным идеям
-  - Open-source проектам с активным сообществом
-- 💰 **Коммерчески**: Для бизнес-запросов и коммерческих задач работаю на **платной основе**. Готов обсуждать проекты с четкими требованиями и сроками.
-- 🤝 **Open Source**: Активно участвую в open-source сообществе. Все мои проекты доступны на GitHub для изучения и использования.
-
-**📬 Контакты для связи:**
-- **Telegram:** [@Kisyufka](https://t.me/Kisyufka) — предпочтительный способ связи
-- **GitHub Issues:** Для обсуждения моих проектов, багов и предложений
-- **GitHub Discussions:** Для более развернутых обсуждений и идей
+> "Code is poetry that works. I write poems that execute."
 
 ---
 
-### 🇺🇸 English Version
+## 🔗 Quick Links
 
-Hi! I'm **Kisyufka** — a Python developer specializing in creating practical and efficient solutions for automation and everyday tasks.
+[![Telegram Channel](https://img.shields.io/badge/📢_My_Coding_Channel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kisyufkaCoding)
+[![Telegram Contact](https://img.shields.io/badge/💬_Personal-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Kisyufka)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka)
 
-**💻 What I Develop:**
-- 🤖 **Telegram bots** — from simple utilities to multifunctional systems with various integrations
-- 🎮 **Discord bots** — with moderation, game mechanics, and community automation
-- 🌐 **Web applications and websites** — mainly backend with FastAPI/Flask
-- ⚙️ **Automation scripts** — for optimizing routine tasks and data processing
-- 🔧 **APIs and microservices** — for various integrations and services
+### 💝 Support My Work
+**A bot for accepting gratitude in RUB, Stars, and other forms**
 
-**🛠 My Tech Stack:**
-- **Languages:** Python 3.8+
-- **Frameworks:** FastAPI, Flask, aiogram, pyrogram, discord.py
-- **Databases:** PostgreSQL, SQLite, Redis
-- **Tools:** Git, Docker, REST API, HTML/CSS/JS (basic)
-- **Libraries:** asyncio, SQLAlchemy, pytest, BeautifulSoup, Pandas
+[![Support Bot](https://img.shields.io/badge/🤖_@kisyufkabot-Support_Me-9C59B6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kisyufkabot)
 
-**💼 Collaboration Terms:**
-- ✅ **Free/Non-commercial**: Open to interesting **non-commercial projects**, especially:
-  - Socially significant initiatives
-  - Educational projects
-  - Creative and experimental ideas
-  - Open-source projects with active communities
-- 💰 **Commercial**: For business requests and commercial tasks, I work on a **paid basis**. Ready to discuss projects with clear requirements and deadlines.
-- 🤝 **Open Source**: Actively participate in the open-source community. All my projects are available on GitHub for study and use.
-
-**📬 Contact Information:**
-- **Telegram:** [@Kisyufka](https://t.me/Kisyufka) — preferred method of communication
-- **GitHub Issues:** For discussing my projects, bugs, and suggestions
-- **GitHub Discussions:** For more detailed discussions and ideas
+**Payment in:** `RUB` ₽ | **Stars** ⭐ | **Other** 💎
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 About Me
 
-<div align="center">
+Hi! I'm **Kisyufka** — a passionate Python developer specializing in creating practical automation tools, Telegram/Discord bots, and backend solutions. I focus on building things that solve real problems and make life easier.
 
-### Статистика профиля / Profile Stats
+## 🛠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kisyufka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kisyufka&layout=compact&theme=algolia)
+<div align="left">
 
-### График активности / Activity Graph
-![Contribution Graph](https://ghchart.rshah.org/kisyufka)
+### **Languages & Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Type Hints](https://img.shields.io/badge/Type%20Hints-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/Async%2FAwait-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![pyrogram](https://img.shields.io/badge/pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+### **Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Libraries & More**
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects / Избранные проекты
+## 📊 GitHub Analytics
+
+### 📈 Profile Stats
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kisyufka&theme=github_dark)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=kisyufka&theme=radical&hide_border=true&background=0D1117&dates=58A6FF)
+
+### 💻 Top Languages
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kisyufka&theme=github_dark)
+
+---
+
+## 🏆 Featured Projects (4 Repositories)
+
+### 🤖 **Telegram-Channel-Auto-Translator** 🌐
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka/Telegram-Channel-Auto-Translator)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+
+**Advanced automated translation bot for Telegram channels.** Automatically translates channel posts and displays both original and translated versions side by side with full admin management.
+
+**✨ Features:**
+- Multi-language support (15+ languages)
+- Google Translate integration
+- Complete admin panel with interactive menus
+- Customizable templates with placeholders
+- Support for private and public channels
+
+---
+
+### 🤖 **Telegram Channel Auto-Poster Bot**
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka/Telegram_Channel_Auto-Poster_Bot)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+
+**Automated content posting bot for Telegram channels.** Schedule and automate content posting across multiple channels.
+
+---
+
+### 🔞 **Channel Request Bot (18+ Verification)**
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka/Channel-request-bot)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+
+**Telegram bot for channel age verification with 18+ content warning.** Automatically processes join requests for private channels requiring age confirmation.
+
+---
+
+### 📝 **Bio Repository** (This page)
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka/Bio)
+
+**My GitHub profile README** - A showcase of my work, skills, and projects.
+
+---
+
+## 💼 Collaboration & Support
+
+### 🤝 **How I Work**
+| **Type** | **Description** | **Contact** |
+|----------|----------------|-------------|
+| **🆓 Open Source** | Contributing to interesting non-commercial projects | GitHub Issues |
+| **💰 Commercial** | Paid development for businesses and startups | [Telegram](https://t.me/Kisyufka) |
+| **💝 Support** | One-time gratitude via support bot | [@kisyufkabot](https://t.me/kisyufkabot) |
+
+### 🎯 **Currently Interested In:**
+- Telegram/Discord bot development
+- Automation tools and scripts
+- Backend API development
+- Open source collaboration
+- Educational projects
+
+---
+
+## 📚 Learning & Sharing
+
+### 🎓 **Sharing Knowledge**
+Follow my coding channel for practical Python tips, tutorials, and code reviews:
+
+[![Telegram Channel](https://img.shields.io/badge/📢_kisyufkaCoding-Join_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kisyufkaCoding)
+
+**What I share:**
+- Python development tips
+- Telegram bot tutorials
+- Code reviews and best practices
+- Project walkthroughs
+
+### 📈 **Currently Learning:**
+- Advanced asyncio patterns
+- Microservices architecture
+- Performance optimization
+- System design patterns
+
+---
+
+## 📬 Contact & Connect
+
+### 💬 **Preferred Contact Methods:**
+[![Telegram Chat](https://img.shields.io/badge/💬_Telegram_Chat-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Kisyufka)
+[![GitHub Issues](https://img.shields.io/badge/🐛_GitHub_Issues-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+### 🌟 **Ways to Support:**
+1. **Star** my GitHub repositories ⭐
+2. **Share** projects with others
+3. **Use** [@kisyufkabot](https://t.me/kisyufkabot) for donations
+4. **Subscribe** to [my channel](https://t.me/kisyufkaCoding)
+
+---
+
+## 📜 Development Philosophy
 
 <div align="center">
 
-### 🤖 **Python Projects**
-*Мои основные проекты на Python / My main Python projects*
+### 💡 **My Approach to Software Development**
 
-[![View All](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kisyufka?tab=repositories)
+<table>
+<tr>
+<td>
+
+#### 🎨 **Code Quality**
+- 🧹 **Clean Code**: Write for humans first, computers second
+- 📏 **Consistency**: Follow PEP 8 and established conventions
+- 🔄 **Refactoring**: Continuously improve code structure
+- 🎯 **Clarity**: Make intentions obvious in the code
+
+#### 📚 **Documentation**
+- 📖 **Comprehensive**: Document why, not just what
+- 🎭 **Examples**: Show usage with real-world scenarios
+- 🔄 **Updated**: Keep docs in sync with code changes
+- 🎯 **User-Focused**: Write for the end user
+
+</td>
+<td>
+
+#### ✅ **Testing & Reliability**
+- 🧪 **TDD**: Tests as specifications
+- 🛡️ **Coverage**: Aim for meaningful test coverage
+- 🔄 **CI/CD**: Automated testing pipelines
+- 🎯 **Reliability**: Code that works as expected
+
+#### 🤝 **Collaboration**
+- 🌍 **Open Source**: Share knowledge freely
+- 👥 **Code Reviews**: Learn from and teach others
+- 📣 **Communication**: Clear and timely responses
+- 🎓 **Mentoring**: Help others grow
+
+</td>
+</tr>
+</table>
+
+### 🏆 **Motto**
+> **"Build tools that solve real problems, not just write code."**
 
 </div>
 
-**🎯 Категории проектов / Project Categories:**
-- **Telegram Bots** — автоматизация, утилиты, игры
-- **Discord Bots** — модерация, сообщества, развлечения
-- **Web Applications** — веб-сервисы и панели управления
-- **Automation Tools** — скрипты для повседневных задач
-- **Learning Projects** — экспериментальные и учебные проекты
-
----
-
-## 📈 Development Focus / Фокус разработки
-
-```mermaid
-graph TD
-    A[Python Development] --> B{Bots Development}
-    A --> C{Web Development}
-    A --> D{Automation}
-    
-    B --> B1[Telegram]
-    B --> B2[Discord]
-    
-    C --> C1[FastAPI]
-    C --> C2[Flask]
-    C --> C3[API Design]
-    
-    D --> D1[Scripts]
-    D --> D2[Data Processing]
-    D --> D3[Workflow Optimization]
-    
-    E[Values] --> F[Code Quality]
-    E --> G[Open Source]
-    E --> H[User Privacy]
-    
-    I[Collaboration] --> J[Non-commercial]
-    I --> K[Commercial]
-    I --> L[Community]
-```
-
----
-
-## 🎯 Current Goals / Текущие цели
-
-<div align="center">
-
-| 🔭 Работаю над | 🌱 Изучаю | 👯 Ищу |
-|----------------|-----------|---------|
-| Улучшением существующих проектов | Advanced asyncio patterns | Сотрудничество по open-source |
-| Оптимизацией кодовой базы | Микросервисную архитектуру | Интересные некоммерческие проекты |
-| Документацией и тестами | Новые Python библиотеки | Технические дискуссии |
-
-</div>
-
-**💬 Готов обсудить / Ready to discuss:**
-- Python разработку и лучшие практики
-- Создание и оптимизацию ботов
-- Веб-разработку на Python
-- Автоматизацию повседневных задач
-
-**⚡ Интересный факт / Fun fact:**  
-Люблю создавать инструменты, которые решают реальные проблемы и экономят время.
-
----
-
-## 🏷️ Tags & Technologies / Теги и технологии
-
-### Основные технологии / Core technologies
-`Python` `FastAPI` `Flask` `aiogram` `pyrogram` `discord.py` `PostgreSQL` `SQLite` `Docker` `Git` `REST API` `asyncio`
-
-### Интересы / Interests
-`automation` `web-development` `open-source` `community-projects` `ethical-tech`
-
-### Изучаю / Learning
-`microservices` `advanced-asyncio` `performance-optimization` `testing`
-
----
-
-## 📜 License & Open Source
-
-<div align="center">
-
-![Open Source](https://img.shields.io/badge/Open_Source-💙-success)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-red)
 ![MIT License](https://img.shields.io/badge/License-MIT-blue)
+![Code Quality](https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen)
 
-</div>
-
-**Большинство моих проектов используют MIT License** — вы можете свободно использовать, модифицировать и распространять код с указанием авторства.
-
-```
-MIT License
-
-Разрешено:
-- Использование в личных и коммерческих целях
-- Модификация и распространение
-- Частное использование
-
-Требуется:
-- Указание авторства
-- Включение лицензии MIT
-
-Запрещено:
-- Ответственность автора за последствия использования
-```
-
----
-
-<div align="center">
-
-## 💻 Quality Code & Open Source
-
-![Code Quality](https://img.shields.io/badge/Code_Quality-🔧-brightgreen)
-![Open Source](https://img.shields.io/badge/Open_Source-💙-blueviolet)
-![User Privacy](https://img.shields.io/badge/User_Privacy-🔒-yellow)
-
-### 🚀 **Качественный код решает задачи**  
-### 🚀 **Quality Code Solves Problems**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=kisyufka&color=blueviolet&label=Profile+Views)](https://github.com/kisyufka)
-[![GitHub Followers](https://img.shields.io/github/followers/kisyufka?style=social)](https://github.com/kisyufka)
-
-**Свяжитесь со мной в Telegram для обсуждения проектов!**  
-**Contact me on Telegram to discuss projects!**
-
-</div>
+**🚀 Building solutions that matter, one line of Python at a time**
 
 ---
 
 <details>
-<summary>📊 Additional Stats / Дополнительная статистика</summary>
+<summary>📊 Activity Graph</summary>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kisyufka&theme=react&hide_border=true&area=true)
-
-![GitHub Contribution](https://github-contribution-stats.vercel.app/api/?username=kisyufka)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kisyufka&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&line=ff7b72&point=58a6ff)
 
 </details>
+
+---
+---
+
+## Русский
+
+### 👨‍💻 Python-разработчик | Специалист по Telegram/Discord ботам | Backend-энтузиаст
+
+> "Код — это поэзия, которая работает. Я пишу стихи, которые исполняются."
+
+---
+
+## 🔗 Быстрые ссылки
+
+[![Канал Telegram](https://img.shields.io/badge/📢_Мой_Канал_Кодинга-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kisyufkaCoding)
+[![Telegram](https://img.shields.io/badge/💬_Личный-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Kisyufka)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka)
+
+### 💝 Поддержать мою работу
+**Бот для приёма благодарностей в рублях, звёздах и других формах**
+
+[![Бот поддержки](https://img.shields.io/badge/🤖_@kisyufkabot-Поддержать-9C59B6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kisyufkabot)
+
+**Оплата в:** `RUB` ₽ | **Звёзды** ⭐ | **Другое** 💎
+
+---
+
+## 🎯 Обо мне
+
+Привет! Я **Kisyufka** — увлеченный Python-разработчик, специализирующийся на создании практичных инструментов автоматизации, Telegram/Discord ботов и backend-решений. Фокусируюсь на создании вещей, которые решают реальные проблемы и упрощают жизнь.
+
+## 🛠 Технологический стек
+<div align="left">
+
+### **Languages & Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Type Hints](https://img.shields.io/badge/Type%20Hints-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/Async%2FAwait-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![pyrogram](https://img.shields.io/badge/pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+### **Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Libraries & More**
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 📊 Аналитика GitHub
+
+### 📈 Статистика профиля
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kisyufka&theme=github_dark)
+
+### 🔥 Серия контрибуций
+![GitHub Streak](https://streak-stats.demolab.com?user=kisyufka&theme=radical&hide_border=true&background=0D1117&dates=58A6FF)
+
+### 💻 Топ языков
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kisyufka&theme=github_dark)
+
+---
+
+## 🏆 Избранные проекты (4 репозитория)
+
+### 🤖 **Telegram-Channel-Auto-Translator** 🌐
+[![GitHub](https://img.shields.io/badge/Смотреть_Репозиторий-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka/Telegram-Channel-Auto-Translator)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![MIT License](https://img.shields.io/badge/Лицензия-MIT-blue?style=flat-square)](LICENSE)
+
+**Продвинутый автоматический переводчик для Telegram каналов.** Автоматически переводит посты в каналах и отображает оригинальную и переведенную версии рядом с полным управлением через админ-панель.
+
+**✨ Возможности:**
+- Поддержка множества языков (15+ языков)
+- Интеграция Google Translate
+- Полная админ-панель с интерактивными меню
+- Настраиваемые шаблоны с плейсхолдерами
+- Поддержка приватных и публичных каналов
+
+---
+
+### 🤖 **Telegram Channel Auto-Poster Bot**
+[![GitHub](https://img.shields.io/badge/Смотреть_Репозиторий-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka/Telegram_Channel_Auto-Poster_Bot)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+
+**Бот для автоматической публикации контента в Telegram каналах.** Планирование и автоматизация публикации контента в нескольких каналах.
+
+---
+
+### 🔞 **Channel Request Bot (18+ Verification)**
+[![GitHub](https://img.shields.io/badge/Смотреть_Репозиторий-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka/Channel-request-bot)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+
+**Telegram бот для проверки возраста с предупреждением о 18+ контенте.** Автоматически обрабатывает запросы на вступление в приватные каналы, требующие подтверждения возраста.
+
+---
+
+### 📝 **Bio Repository** (Эта страница)
+[![GitHub](https://img.shields.io/badge/Смотреть_Репозиторий-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka/Bio)
+
+**Мой README для профиля GitHub** - Витрина моей работы, навыков и проектов.
+
+---
+
+## 💼 Сотрудничество и поддержка
+
+### 🤝 **Как я работаю**
+| **Тип** | **Описание** | **Контакт** |
+|---------|--------------|-------------|
+| **🆓 Open Source** | Участие в интересных некоммерческих проектах | GitHub Issues |
+| **💰 Коммерческие** | Платная разработка для бизнеса и стартапов | [Telegram](https://t.me/Kisyufka) |
+| **💝 Поддержка** | Разовая благодарность через бота поддержки | [@kisyufkabot](https://t.me/kisyufkabot) |
+
+### 🎯 **Сейчас интересуюсь:**
+- Разработкой Telegram/Discord ботов
+- Инструментами автоматизации и скриптами
+- Backend API разработкой
+- Open source сотрудничеством
+- Образовательными проектами
+
+---
+
+## 📚 Обучение и обмен знаниями
+
+### 🎓 **Делюсь знаниями**
+Подписывайтесь на мой канал кодинга для практических советов по Python, туториалов и код-ревью:
+
+[![Telegram Channel](https://img.shields.io/badge/📢_kisyufkaCoding-Подписаться-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kisyufkaCoding)
+
+**О чем я рассказываю:**
+- Советы по Python разработке
+- Туториалы по Telegram ботам
+- Код-ревью и лучшие практики
+- Разборы проектов
+
+### 📈 **Сейчас изучаю:**
+- Продвинутые паттерны asyncio
+- Микросервисную архитектуру
+- Оптимизацию производительности
+- Паттерны проектирования систем
+
+---
+
+## 📬 Контакты и связь
+
+### 💬 **Предпочтительные способы связи:**
+[![Telegram Чат](https://img.shields.io/badge/💬_Telegram_Чат-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Kisyufka)
+[![GitHub Issues](https://img.shields.io/badge/🐛_GitHub_Issues-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+### 🌟 **Как поддержать:**
+1. **Ставьте звёзды** моим репозиториям на GitHub ⭐
+2. **Делитесь** проектами с другими
+3. **Используйте** [@kisyufkabot](https://t.me/kisyufkabot) для донатов
+4. **Подписывайтесь** на [мой канал](https://t.me/kisyufkaCoding)
+
+---
+
+## 📜 Философия разработки
+
+<div align="center">
+
+### 🏆 **Основные принципы**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💎 **Качество кода**
+> "Код должен быть таким, чтобы его было легко читать,  
+> и только потом — чтобы он работал быстро."  
+> – *Мой принцип*
+
+**Мой подход:**
+- 🧼 Чистота и понятность превыше всего
+- 🎯 Каждая функция — одна чёткая задача
+- 📏 Единый стиль во всём проекте
+- 🔍 Имена, которые говорят сами за себя
+
+</td>
+<td width="50%">
+
+#### 📚 **Документация и тестирование**
+> "Если не задокументировано — значит, не существует.  
+> Если не протестировано — значит, сломано."  
+> – *Моё правило*
+
+**Мои стандарты:**
+- 📖 README как инструкция для пользователя
+- 🧪 Тесты как спецификация работы
+- 🎭 Реальные примеры вместо абстракций
+- 🔄 Git с человеческими коммитами
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🚀 **Эффективность и реализация**
+> "Сначала заставить работать,  
+> потом заставить работать правильно,  
+> и только потом — заставить работать быстро."  
+> – *Мой алгоритм*
+
+**Мой фокус:**
+- ⚡ Прагматичная оптимизация
+- 📦 "Меньше зависимостей — меньше проблем"
+- 🔧 Решение реальных, а не выдуманных задач
+- 🎯 Продуманный UX/UI даже для CLI
+
+</td>
+<td width="50%">
+
+#### 🤝 **Сообщество и развитие**
+> "Знания растут, когда ими делятся.  
+> Код улучшается, когда его проверяют."  
+> – *Моя философия*
+
+**Мои ценности:**
+- 🌍 Open source как образ жизни
+- 👥 Ревью кода как способ обучения
+- 📣 Честность и открытость в общении
+- 🎓 Помощь другим разработчикам
+
+</td>
+</tr>
+</table>
+
+### 🎯 **Моя главная цель**
+> **"Создавать инструменты, которые решают реальные проблемы,  
+> а не просто писать код ради кода."**
+
+</div>
+
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-red)
+![MIT License](https://img.shields.io/badge/Лицензия-MIT-blue)
+![Качество кода](https://img.shields.io/badge/Качество_Кода-A%2B-brightgreen)
+
+**🚀 Создаю решения, которые имеют значение, по одной строчке Python за раз**
+
+---
+
+<details>
+<summary>📊 График активности</summary>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kisyufka&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&line=ff7b72&point=58a6ff)
+
+</details>
+
+---
+
+<div align="center">
+
+**Спасибо за посещение моего профиля!**  
+**Thanks for visiting my profile!**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kisyufka&color=blueviolet&label=Profile+Views)](https://github.com/kisyufka)
+[![GitHub Followers](https://img.shields.io/github/followers/kisyufka?style=social)](https://github.com/kisyufka)
+
+</div>
