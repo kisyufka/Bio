@@ -1,3 +1,7 @@
+# 🚀 Kisyufka | Python Developer & Creator
+
+## Русский
+
 ### 👨‍💻 Python-разработчик | Специалист по Telegram/Discord ботам | Backend-энтузиаст
 
 > "Код — это поэзия, которая работает. Я пишу стихи, которые исполняются."
@@ -255,8 +259,7 @@
 
 <div align="center">
 
-**Спасибо за посещение моего профиля!**  
-**Thanks for visiting my profile!**
+**Спасибо за посещение моего профиля!**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kisyufka&color=blueviolet&label=Profile+Views)](https://github.com/kisyufka)
 [![GitHub Followers](https://img.shields.io/github/followers/kisyufka?style=social)](https://github.com/kisyufka)
