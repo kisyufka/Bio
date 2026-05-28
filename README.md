@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](https://github.com/kisyufka/Bio/blob/main/BIO_EN.md) 
-[![Русский](https://img.shields.io/badge/Русский-red?style=for-the-badge)](https://github.com/kisyufka/Bio/blob/main/BIO_RU.md)
+[![English](https://img.shields.io/badge/English-blue?style=for-the-badge)](https://github.com/kisyufka/Bio/wiki/Bio-En) 
+[![Русский](https://img.shields.io/badge/Русский-red?style=for-the-badge)](https://github.com/kisyufka/Bio/wiki/Bio-Ru)
 
 </div>
 
@@ -39,7 +39,7 @@ A passionate Python developer specializing in creating practical automation tool
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka)
 [![Support Bot](https://img.shields.io/badge/Support_Me-9C59B6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kisyufkabot)
 
-**📖 [→ Read Full English Bio](https://github.com/kisyufka/Bio/blob/main/BIO_EN.md)**
+**📖 [→ Read Full English Bio](https://github.com/kisyufka/Bio/wiki/Bio-En)**
 
 ---
 
@@ -73,7 +73,7 @@ A passionate Python developer specializing in creating practical automation tool
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kisyufka)
 [![Поддержка](https://img.shields.io/badge/Поддержать-9C59B6?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kisyufkabot)
 
-**📖 [→ Прочитать полный русский Bio](https://github.com/kisyufka/Bio/blob/main/BIO_RU.md)**
+**📖 [→ Прочитать полный русский Bio](https://github.com/kisyufka/Bio/wiki/Bio-Ru)**
 
 ---
 
@@ -83,8 +83,8 @@ A passionate Python developer specializing in creating practical automation tool
 
 | Language | Link |
 |----------|------|
-| 🇬🇧 English | [BIO_EN.md](https://github.com/kisyufka/Bio/blob/main/BIO_EN.md) |
-| 🇷🇺 Русский | [BIO_RU.md](https://github.com/kisyufka/Bio/blob/main/BIO_RU.md) |
+| 🇬🇧 English | [BIO_EN.md](https://github.com/kisyufka/Bio/wiki/Bio-En) |
+| 🇷🇺 Русский | [BIO_RU.md](https://github.com/kisyufka/Bio/wiki/Bio-Ru) |
 
 ---
 
