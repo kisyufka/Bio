@@ -1,3 +1,5 @@
+# 🚀 Kisyufka | Python Developer & Creator
+
 ### 👨‍💻 Python Developer | Telegram/Discord Bot Specialist | Backend Enthusiast
 
 > "Code is poetry that works. I write poems that execute."
@@ -167,45 +169,75 @@ Follow my coding channel for practical Python tips, tutorials, and code reviews:
 
 <div align="center">
 
-### 💡 **My Approach to Software Development**
+### 🏆 **Core Principles**
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-#### 🎨 **Code Quality**
-- 🧹 **Clean Code**: Write for humans first, computers second
-- 📏 **Consistency**: Follow PEP 8 and established conventions
-- 🔄 **Refactoring**: Continuously improve code structure
-- 🎯 **Clarity**: Make intentions obvious in the code
+#### 💎 **Code Quality**
+> "Code should be easy to read,  
+> and only then should it be fast."  
+> – *My Principle*
 
-#### 📚 **Documentation**
-- 📖 **Comprehensive**: Document why, not just what
-- 🎭 **Examples**: Show usage with real-world scenarios
-- 🔄 **Updated**: Keep docs in sync with code changes
-- 🎯 **User-Focused**: Write for the end user
+**My Approach:**
+- 🧼 Cleanliness and clarity above all
+- 🎯 Each function — one clear task
+- 📏 Consistent style throughout the project
+- 🔍 Names that speak for themselves
 
 </td>
-<td>
+<td width="50%">
 
-#### ✅ **Testing & Reliability**
-- 🧪 **TDD**: Tests as specifications
-- 🛡️ **Coverage**: Aim for meaningful test coverage
-- 🔄 **CI/CD**: Automated testing pipelines
-- 🎯 **Reliability**: Code that works as expected
+#### 📚 **Documentation & Testing**
+> "If it's not documented — it doesn't exist.  
+> If it's not tested — it's broken."  
+> – *My Rule*
 
-#### 🤝 **Collaboration**
-- 🌍 **Open Source**: Share knowledge freely
-- 👥 **Code Reviews**: Learn from and teach others
-- 📣 **Communication**: Clear and timely responses
-- 🎓 **Mentoring**: Help others grow
+**My Standards:**
+- 📖 README as user instructions
+- 🧪 Tests as specifications
+- 🎭 Real examples over abstractions
+- 🔄 Git with human-readable commits
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🚀 **Efficiency & Implementation**
+> "First make it work,  
+> then make it right,  
+> and only then make it fast."  
+> – *My Algorithm*
+
+**My Focus:**
+- ⚡ Pragmatic optimization
+- 📦 "Fewer dependencies — fewer problems"
+- 🔧 Solving real problems, not imagined ones
+- 🎯 Thoughtful UX/UI even for CLI
+
+</td>
+<td width="50%">
+
+#### 🤝 **Community & Growth**
+> "Knowledge grows when shared.  
+> Code improves when reviewed."  
+> – *My Philosophy*
+
+**My Values:**
+- 🌍 Open source as a lifestyle
+- 👥 Code review as learning
+- 📣 Honesty and openness in communication
+- 🎓 Helping other developers grow
 
 </td>
 </tr>
 </table>
 
-### 🏆 **Motto**
-> **"Build tools that solve real problems, not just write code."**
+### 🎯 **My Main Goal**
+> **"Build tools that solve real problems,  
+> not just write code for code's sake."**
 
 </div>
 
@@ -225,5 +257,12 @@ Follow my coding channel for practical Python tips, tutorials, and code reviews:
 </details>
 
 ---
----
 
+<div align="center">
+
+**Thanks for visiting my profile!**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kisyufka&color=blueviolet&label=Profile+Views)](https://github.com/kisyufka)
+[![GitHub Followers](https://img.shields.io/github/followers/kisyufka?style=social)](https://github.com/kisyufka)
+
+</div>
